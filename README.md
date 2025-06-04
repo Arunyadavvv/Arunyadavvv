@@ -1,55 +1,85 @@
-<!-- Header -->
-<h1 align="center">Hi 👋, I'm Your Name</h1>
-<h3 align="center">A passionate [Your Role] from [Your Country]</h3>
+<!-- Profile header with typing animation -->
+<h1 align="center">
+  Hi there 👋, I'm <span style="color:#3f51b5;">Your Name</span>
+</h1>
 
-<!-- Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&width=435&lines=AI+Developer+%7C+Web+Developer;Open+Source+Contributor;Tech+Enthusiast+%7C+Lifelong+Learner" alt="Typing SVG" />
 </p>
 
-<!-- Intro -->
-- 🔭 I’m currently working on **[Project Name or Learning Topic]**
+---
 
-- 🌱 I’m currently learning **[Technology or Framework]**
+<!-- About section -->
+### 👨‍💻 About Me
 
-- 💬 Ask me about **[Your Skills]**
+- 🔭 I’m currently working on: `Your Project or Internship`
+- 🌱 Learning: `AI, ML, Web Dev, etc.`
+- 💬 Ask me about: `Python | AI | Web | Git`
+- ✨ Fun Fact: I debug more than I breathe 😅
+- 📫 How to reach me: your.email@example.com
 
-- 📫 How to reach me: **your.email@example.com**
+---
 
-- ⚡ Fun fact: **[Interesting Fact]**
+<!-- Tech Stack with GIF icons -->
+### 🛠️ Tech Stack
 
-<!-- Skills -->
-<h3>💻 Languages and Tools:</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <!-- Add more tools as needed -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,mongodb,html,css,git,github" />
 </p>
+
+---
 
 <!-- GitHub Stats -->
-<h3>📊 GitHub Stats:</h3>
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<!-- Connect -->
-<h3>📫 Connect with me:</h3>
+---
 
-<p>
+<!-- Top Languages -->
+### 📚 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<!-- Trophy (Achievement) Section -->
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=dracula&row=1&column=7" />
+</p>
+
+---
+
+<!-- Connect -->
+### 🔗 Connect with Me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://twitter.com/yourprofile">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- Snake Animation -->
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/yourusername/yourusername/raw/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
