@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&width=435&lines=AI+Developer+%7C+Web+Developer;Open+Source+Contributor;Tech+Enthusiast+%7C+Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&width=435&lines=AI+Developer+%7C+Web+Developer;Backend+Engineer+%7C+ML+Learner;Tech+Enthusiast+%7C+Open+Source+Lover" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,19 +12,30 @@
 <!-- About section -->
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on: `Your Project or Internship`
-- 🌱 Learning: `AI, ML, Web Dev, etc.`
-- 💬 Ask me about: `Python | AI | Web | Git`
+- 🔭 Currently working on: `Your Project or Internship`
+- 🌱 Learning: `AI, Node.js, Web Dev, DevOps`
+- 💬 Ask me about: `Python | Backend | AI | APIs`
 - ✨ Fun Fact: I debug more than I breathe 😅
-- 📫 How to reach me: arunkumaryadav95063@gmail.com
+- 📫 Reach me: `your.email@example.com`
 
 ---
 
-<!-- Tech Stack with GIF icons -->
-### 🛠️ Tech Stack
+<!-- Tech Stack -->
+### 💻 Tech Stack
 
+#### 🖥️ Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,mongodb,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
+
+#### 🗄️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mongodb,mysql,postgres,firebase,fastapi" />
+</p>
+
+#### ⚙️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,docker,linux" />
 </p>
 
 ---
@@ -33,14 +44,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" width="47%" />
 </p>
 
 ---
 
 <!-- Top Languages -->
-### 📚 Top Languages
+### 📚 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
