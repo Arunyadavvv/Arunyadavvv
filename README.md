@@ -48,15 +48,6 @@
 
 ---
 
-<!-- Trophy (Achievement) Section -->
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=dracula&row=1&column=7" />
-</p>
-
----
-
 <!-- Connect -->
 ### 🔗 Connect with Me
 
