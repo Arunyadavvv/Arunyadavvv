@@ -16,7 +16,7 @@
 - 🌱 Learning: `AI, ML, Web Dev, etc.`
 - 💬 Ask me about: `Python | AI | Web | Git`
 - ✨ Fun Fact: I debug more than I breathe 😅
-- 📫 How to reach me: your.email@example.com
+- 📫 How to reach me: arunkumaryadav95063@gmail.com
 
 ---
 
